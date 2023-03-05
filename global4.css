@@ -1,0 +1,33 @@
+.divBlock4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color:rgb(41, 37, 118);
+    color: bisque;
+    margin: auto;
+    border: 4px solid rgb(14, 14, 14)
+    
+}
+.menuBlock4 ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.menuBlock4 ul li a{
+    text-decoration: none;
+    color: rgb(242, 247, 247);
+}
+.menuBlock4 ul li{
+    list-style: none;
+}
+img{
+    height: 60px;
+    width: 200px;
+    padding: 20px;
+}
+.menuBlock4 ul li a:hover{
+    color:rgb(21, 18, 18)
+    
+}

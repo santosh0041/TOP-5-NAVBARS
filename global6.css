@@ -1,0 +1,33 @@
+.divBlock6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+    background-color:rgb(231, 49, 13);
+    color: bisque;
+    margin: auto;
+    border: 4px solid rgb(70, 72, 16)
+    
+}
+.menuBlock6 ul{
+    display: flex;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+.menuBlock6 ul li a{
+    text-decoration: none;
+    color: beige;
+}
+.menuBlock6 ul li{
+    list-style: none;
+}
+img{
+    height: 60px;
+    width: 200px;
+    padding: 20px;
+}
+.menuBlock6 ul li a:hover{
+    color:rgb(21, 18, 18)
+    
+}
